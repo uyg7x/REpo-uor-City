@@ -125,5 +125,5 @@ MIT License - see LICENSE file for details
 
 <img width="675" height="424" alt="Screenshot 2026-04-19 011129" src="https://github.com/user-attachments/assets/07a6d0e5-1c48-4d1b-aa5c-3fb5eb23c13d" />
 
-<img width="675" height="424" alt="Screenshot 2026-04-19 011129" src="https://github.com/user-attachments/assets/c8646f4c-ed10-438e-8789-d661663ec209" />
+
 
