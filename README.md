@@ -25,7 +25,7 @@ npm install -g repo-city
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/username/repo-city.git
+git clone https://github.com/uyg7x/repo-city.git
 cd repo-city
 npm install
 ```
