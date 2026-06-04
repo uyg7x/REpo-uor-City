@@ -1,8 +1,8 @@
-# 🏙️ Repo-City
+#  Repo-City
 
 Turn any GitHub profile into an explorable 3D isometric city where repositories become buildings in a stunning visual neighborhood.
 
-## ✨ Features
+##  Features
 
 - **3D City Visualization**: Each repository becomes a building with height proportional to its size
 - **Climate-Aware Themes**: Automatic environment detection with regional architecture styles:
@@ -16,7 +16,7 @@ Turn any GitHub profile into an explorable 3D isometric city where repositories 
 - **Commit Heatmaps**: Visualize file activity with dynamic window lighting
 - **Weather Effects**: Regional weather particles (rain, cherry blossoms, etc.)
 
-## 📦 Installation
+##  Installation
 
 ```bash
 npm install -g repo-city
@@ -30,7 +30,7 @@ cd repo-city
 npm install
 ```
 
-## 🚀 Usage
+##  Usage
 
 ### As a Global CLI Tool
 
@@ -49,14 +49,14 @@ The application will:
 2. Generate a 3D city visualization
 3. Open automatically in your default browser at `http://localhost:8765`
 
-## 🎮 Controls
+##  Controls
 
 - **Rotate**: Click and drag
 - **Zoom**: Scroll wheel
 - **Pan**: Right-click and drag
 - **Explore Repo**: Hover over a building and click to enter
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 repo-city/
@@ -70,7 +70,7 @@ repo-city/
 └── .gitignore
 ```
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -80,7 +80,7 @@ repo-city/
 
 Edit CDN URLs in `src/renderer.js` if you need specific Three.js versions.
 
-## 🛠️ Development
+##  Development
 
 ### Running in Development
 
@@ -93,26 +93,19 @@ repo-city https://github.com/your-username
 
 No build step required - runs directly with Node.js.
 
-## 📝 Requirements
+##  Requirements
 
 - Node.js 18+ (for native `fetch` support)
 - Modern browser with WebGL support
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 - GitHub API rate limit: 60 requests/hour without token
 - Maximum 30 repositories displayed (GitHub API default)
 - Requires internet connection for GitHub API and CDN resources
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
+##  License
 
 MIT License - see LICENSE file for details
 
