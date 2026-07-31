@@ -116,9 +116,12 @@ MIT License - see LICENSE file for details
 - CLI framework: [Commander.js](https://github.com/tj/commander.js)
 # REpo-uor-City
 
-<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/1f4d12ce-2d9a-459a-895f-f93707ea103a" />
-<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/041bbc47-2faf-4b31-bc97-4c88a3fef7ab" />
-<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/3cb80183-054d-4f15-8bce-1dc694348de9" />
+
+<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/2416e8dc-711e-4353-b741-671454a42930" />
+
+<img width="1228" height="585" alt="image" src="https://github.com/user-attachments/assets/079a94d2-ec38-44dd-be25-ba74038bf9af" />
+
+<img width="1060" height="424" alt="image" src="https://github.com/user-attachments/assets/5a359dab-8b84-4398-a7c2-29882750babf" />
 
 
 
