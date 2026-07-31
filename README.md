@@ -117,7 +117,7 @@ MIT License - see LICENSE file for details
 # REpo-uor-City
 
 
-<img width="700" height="510" alt="image" src="https://github.com/user-attachments/assets/2416e8dc-711e-4353-b741-671454a42930" />
+<img width="1265" height="510" alt="image" src="https://github.com/user-attachments/assets/2416e8dc-711e-4353-b741-671454a42930" />
 
 <img width="1228" height="585" alt="image" src="https://github.com/user-attachments/assets/079a94d2-ec38-44dd-be25-ba74038bf9af" />
 
@@ -127,7 +127,7 @@ MIT License - see LICENSE file for details
 
 
 
-<img width="675" height="424" alt="Screenshot 2026-04-19 011129" src="https://github.com/user-attachments/assets/07a6d0e5-1c48-4d1b-aa5c-3fb5eb23c13d" />
+<img width="1228" height="510" alt="Screenshot 2026-04-19 011129" src="https://github.com/user-attachments/assets/07a6d0e5-1c48-4d1b-aa5c-3fb5eb23c13d" />
 
 Build With PJY_&_Founder
 Feel Free To Contact Us DBhagat2007@gmai.com
