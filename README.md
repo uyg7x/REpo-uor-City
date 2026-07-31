@@ -117,7 +117,7 @@ MIT License - see LICENSE file for details
 # REpo-uor-City
 
 
-<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/2416e8dc-711e-4353-b741-671454a42930" />
+<img width="700" height="510" alt="image" src="https://github.com/user-attachments/assets/2416e8dc-711e-4353-b741-671454a42930" />
 
 <img width="1228" height="585" alt="image" src="https://github.com/user-attachments/assets/079a94d2-ec38-44dd-be25-ba74038bf9af" />
 
