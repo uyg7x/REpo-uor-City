@@ -35,13 +35,13 @@ npm install
 ### As a Global CLI Tool
 
 ```bash
-repo-city https://github.com/your-username
+repo-city https://github.com/uyg7x
 ```
 
 ### Locally
 
 ```bash
-node index.js https://github.com/your-username
+node index.js https://github.com/uyg7x
 ```
 
 The application will:
@@ -86,7 +86,7 @@ Edit CDN URLs in `src/renderer.js` if you need specific Three.js versions.
 
 ```bash
 npm link
-repo-city https://github.com/your-username
+repo-city https://github.com/uyg7x
 ```
 
 ### Building
@@ -129,6 +129,6 @@ MIT License - see LICENSE file for details
 
 <img width="1228" height="510" alt="Screenshot 2026-04-19 011129" src="https://github.com/user-attachments/assets/07a6d0e5-1c48-4d1b-aa5c-3fb5eb23c13d" />
 
-Build With PJY_&_Founder
+Build With PJY_&_Supplier
 Feel Free To Contact Us DBhagat2007@gmai.com
 
