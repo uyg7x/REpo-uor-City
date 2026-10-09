@@ -1,4 +1,4 @@
-# 🏙️ REpo-uor-City
+# REpo-uor-City
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=REpo-uor-City&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -35,11 +35,11 @@
 Instead of looking at repositories as a simple list, the project creates a visual city where:
 
 ```text
-🏢 Repository  →  Building
-📊 Repository Size  →  Building Height
-🔥 Commit Activity  →  Building Lights
-🌦️ Region  →  Environment & Weather
-🌍 GitHub Profile  →  Complete City
+ Repository  →  Building
+ Repository Size  →  Building Height
+ Commit Activity  →  Building Lights
+ Region  →  Environment & Weather
+ GitHub Profile  →  Complete City
 ```
 
 Explore your repositories in a completely different way — **as a city built from your code.**
@@ -48,13 +48,13 @@ Explore your repositories in a completely different way — **as a city built fr
 
 ## ✨ Features
 
-### 🏙️ 3D Repository City
+###  3D Repository City
 
 Every GitHub repository is represented as a unique building.
 
 Larger repositories can be represented by taller structures, creating a visual representation of your GitHub portfolio.
 
-### 🌍 Climate-Aware Environments
+###  Climate-Aware Environments
 
 The city can adapt its visual environment based on regional context.
 
@@ -66,32 +66,32 @@ The city can adapt its visual environment based on regional context.
 | 🇺🇸 USA | Modern cyberpunk aesthetic |
 | 🇬🇧 UK | Classic brick architecture |
 
-### 🌧️ Dynamic Weather Effects
+###  Dynamic Weather Effects
 
 The environment can include regional atmospheric effects such as:
 
-- 🌧️ Rain
-- 🌸 Cherry blossoms
-- ✨ Environmental particles
-- 🌫️ Atmospheric effects
+-  Rain
+-  Cherry blossoms
+-  Environmental particles
+-  Atmospheric effects
 
-### 🔥 Commit Activity Visualization
+###  Commit Activity Visualization
 
 Repository activity is represented visually through dynamic building windows.
 
 More activity can create a more active-looking cityscape.
 
-### 🖱️ Interactive 3D Navigation
+###  Interactive 3D Navigation
 
 Explore the city naturally:
 
-- 🖱️ Click + Drag → Rotate
-- 🔍 Scroll → Zoom
-- ↔️ Right Click + Drag → Pan
-- 👆 Hover → Highlight repository
-- 🏢 Click → Explore repository
+-  Click + Drag → Rotate
+-  Scroll → Zoom
+-  Right Click + Drag → Pan
+-  Hover → Highlight repository
+-  Click → Explore repository
 
-### ⚡ Real-Time GitHub Data
+###  Real-Time GitHub Data
 
 The application retrieves repository information directly from GitHub and generates the city dynamically.
 
@@ -99,7 +99,7 @@ No manually created building data is required.
 
 ---
 
-## 🎬 Concept
+##  Concept
 
 <p align="center">
 
@@ -128,14 +128,14 @@ No manually created building data is required.
           └────────┬─────────┘
                    │
                    ▼
-             🏙️ YOUR CITY
+               YOUR CITY
 ```
 
 </p>
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -182,7 +182,7 @@ http://localhost:8765
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 You can also run the project through the CLI:
 
@@ -220,12 +220,12 @@ The application:
 
 | Technology | Purpose |
 |---|---|
-| 🟨 JavaScript | Core application logic |
-| 🟢 Node.js | Runtime environment |
-| 🎮 Three.js | 3D rendering |
-| 🐙 GitHub API | Repository information |
-| ⚡ Commander.js | CLI interface |
-| 🌐 WebGL | Browser-based 3D graphics |
+|  JavaScript | Core application logic |
+|  Node.js | Runtime environment |
+|  Three.js | 3D rendering |
+|  GitHub API | Repository information |
+|  Commander.js | CLI interface |
+|  WebGL | Browser-based 3D graphics |
 
 </p>
 
@@ -233,15 +233,15 @@ The current project uses Node.js, Commander.js, GitHub API integration, and a Th
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 REpo-uor-City/
 │
-├── 📄 index.js
+├── index.js
 │   └── Main CLI entry point
 │
-├── 📁 src/
+├── src/
 │   ├── api.js
 │   │   └── GitHub API communication
 │   │
@@ -251,27 +251,27 @@ REpo-uor-City/
 │   └── renderer.js
 │       └── Three.js 3D visualization
 │
-├── 📄 package.json
-├── 📄 README.md
-├── 📄 LICENSE
-└── 📄 .gitignore
+├── package.json
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action | Control |
 |---|---|
-| 🔄 Rotate | Click + Drag |
-| 🔍 Zoom | Mouse Wheel |
-| ↔️ Pan | Right Click + Drag |
-| 🏢 Highlight | Hover |
-| 🚪 Explore | Click Building |
+|  Rotate | Click + Drag |
+|  Zoom | Mouse Wheel |
+|  Pan | Right Click + Drag |
+|  Highlight | Hover |
+|  Explore | Click Building |
 
 ---
 
-## 🔐 GitHub API Configuration
+##  GitHub API Configuration
 
 By default, GitHub's API allows limited unauthenticated requests.
 
@@ -291,11 +291,11 @@ export GITHUB_TOKEN="your_github_token"
 
 The project recognizes the `GITHUB_TOKEN` environment variable for higher API limits.
 
-> ⚠️ Never commit your GitHub token to the repository.
+>  Never commit your GitHub token to the repository.
 
 ---
 
-## 🎨 Visual Experience
+##  Visual Experience
 
 REpo-uor-City is designed around the idea of turning boring repository lists into an interactive visual experience.
 
@@ -326,7 +326,7 @@ REpo-uor-City
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### Step 1 — GitHub Profile
 
@@ -369,7 +369,7 @@ The generated environment can then be explored directly in the browser.
 
 ---
 
-## 📊 Repository Visualization
+##  Repository Visualization
 
 A repository can influence multiple visual properties:
 
@@ -386,12 +386,12 @@ A repository can influence multiple visual properties:
           │           │           │
           └───────────┼───────────┘
                       ▼
-                 🏙️ CITY
+                    CITY
 ```
 
 ---
 
-## 💡 Why REpo-uor-City?
+##  Why REpo-uor-City?
 
 GitHub normally presents your work as:
 
@@ -405,7 +405,7 @@ It transforms your development activity into a **visual digital landscape**.
 
 ---
 
-## 🧪 Development
+##  Development
 
 Install the project locally:
 
@@ -429,27 +429,27 @@ npm test
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 Future improvements could include:
 
-- [ ] 🌐 Public hosted demo
-- [ ] 🎨 More regional architecture
-- [ ] 🏙️ Larger city environments
-- [ ] 👤 Multiple GitHub profile comparison
-- [ ] 📈 Advanced repository analytics
-- [ ] 🔥 GitHub contribution heatmap
-- [ ] 🗺️ Searchable repository map
-- [ ] 🌙 Day/night cycle
-- [ ] 🌦️ Advanced weather simulation
-- [ ] 🚗 Animated traffic
-- [ ] 🚶 Animated citizens
-- [ ] 🏆 Developer achievement buildings
-- [ ] 📱 Mobile optimization
+- [ ]  Public hosted demo
+- [ ]  More regional architecture
+- [ ]  Larger city environments
+- [ ]  Multiple GitHub profile comparison
+- [ ]  Advanced repository analytics
+- [ ]  GitHub contribution heatmap
+- [ ]  Searchable repository map
+- [ ]  Day/night cycle
+- [ ]  Advanced weather simulation
+- [ ]  Animated traffic
+- [ ]  Animated citizens
+- [ ]  Developer achievement buildings
+- [ ]  Mobile optimization
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - GitHub API requests are subject to rate limits.
 - The default GitHub API configuration has limited unauthenticated requests.
@@ -459,7 +459,7 @@ Future improvements could include:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -499,7 +499,7 @@ Describe what you changed and why.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.
 
@@ -507,32 +507,32 @@ See the [`LICENSE`](./LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 Built using:
 
-- 🐙 GitHub API
-- 🎮 Three.js
-- ⚡ Commander.js
-- 🟢 Node.js
+-  GitHub API
+-  Three.js
+-  Commander.js
+-  Node.js
 
 ---
 
-## 🌟 Support the Project
+##  Support the Project
 
 If you like **REpo-uor-City**, consider:
 
-⭐ Starring the repository  
-🍴 Forking the project  
-🐛 Reporting issues  
-💡 Suggesting features  
-🤝 Contributing improvements
+ Starring the repository  
+ Forking the project  
+ Reporting issues  
+ Suggesting features  
+ Contributing improvements
 
 ---
 
 <p align="center">
 
-### 🏙️ Your GitHub. Your Code. Your City.
+###  Your GitHub. Your Code. Your City.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" width="100%"/>
 
